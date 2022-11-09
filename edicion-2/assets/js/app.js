@@ -3,7 +3,7 @@ Inclusión de componentes por Vanilla JS.
 Optimizar para PHP
 */
  //const URL = 'https://3241.com.ar/iusm';
-const URL = window.location.protocol +"//"+ window.location.host+"/anclaje/edicion-2";
+const URL = window.location.protocol +"//"+ window.location.host+"/revista/edicion-2";
 
 fetch(URL + "/components/header.html")
   .then(response => {
