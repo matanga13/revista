@@ -4,7 +4,7 @@ Optimizar para PHP
 */
  //const URL = 'https://3241.com.ar/iusm';
 //const PATH = '/iusm/edicion1/'
-const URL = window.location.protocol +"//"+ window.location.host +"/anclaje/edicion1";
+const URL = window.location.protocol +"//"+ window.location.host +"/revista/edicion-2";
 console.log(URL);
 
 fetch(URL + "/components/header.html")

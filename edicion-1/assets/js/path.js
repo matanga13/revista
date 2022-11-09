@@ -1,2 +1,2 @@
-const PATH = window.location.protocol +"//"+ window.location.host+"/anclaje/edicion1/";
+const PATH = window.location.protocol +"//"+ window.location.host+"/revista/edicion-2/";
 document.head.innerHTML = document.head.innerHTML + "<base href="+PATH+" />";
